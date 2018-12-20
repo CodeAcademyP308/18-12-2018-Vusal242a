@@ -4,7 +4,7 @@
 #fullbackground {
     width: 700px;
     height: 500px;
-    border: 1px;
+    border: 1px solid gray;
 }
 
 #photos {
@@ -17,7 +17,7 @@
 }
 
 .photo {
-    width: 175px;
+    width: 172.4px;
     height: 150px;
     border: 3px solid gray;
 }
